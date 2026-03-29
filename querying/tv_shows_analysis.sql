@@ -1,8 +1,9 @@
--- ========================================
--- Project: TV Shows Analysis
--- Dataset: Cyberchase (CS50 SQL)
+-- ============================================
+-- Project: TV Shows Analysis (Cyberchase)
+-- Description: SQL analysis of Cyberchase episode dataset from PBS
+-- Dataset: cyberchase.db (CS50 SQL)
 -- Skills: SELECT, WHERE, ORDER BY, GROUP BY
--- ========================================
+-- ============================================
 
 
 -- 1. Select all shows from season 1
