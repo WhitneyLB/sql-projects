@@ -1,6 +1,7 @@
 # SQL Projects
 
 This repository showcases SQL projects focused on analyzing real-world datasets using relational databases.
+
 The work demonstrates the ability to extract insights, join multiple data sources, and perform data-driven analysis using SQL.
 
 ---
@@ -8,6 +9,7 @@ The work demonstrates the ability to extract insights, join multiple data source
 ## Overview
 
 This project demonstrates SQL skills through structured analysis of multiple datasets, including education, sports, and media data.
+
 Each query set focuses on solving specific data questions using joins, aggregations, filtering, and subqueries.
 
 ---
