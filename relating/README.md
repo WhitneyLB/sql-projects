@@ -1,6 +1,7 @@
 SQL Relational Projects
 
-This folder contains SQL projects focused on joining tables, working with relationships, and analyzing connected datasets.
+This folder contains SQL projects focused on joining tables, analyzing relationships, and working with connected datasets.
+
 
 Projects:
 
